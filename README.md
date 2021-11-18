@@ -2,7 +2,7 @@
 A plugin for  display different notice boxes with using shortcode
 
 <strong>Installation</strong><br/>
-1. Download the <a href="https://drive.google.com/file/d/1XyXN4wCcyTbBxHChfARz6vIRq4pTQfEX/view?usp=sharing"> plugin file.</a><br/>
+1. Download the <a href="https://drive.google.com/file/d/1XyXN4wCcyTbBxHChfARz6vIRq4pTQfEX/view?usp=sharing" target="_blank"> plugin file.</a><br/>
 2. FROM WITHIN DASHBOARD (RECOMMENDED)<br/>
 3. Navigate to Dashboard – Plugins – Add New - Upload Plugin;<br/>
 4. Choose plugin file from your computer;<br/>
