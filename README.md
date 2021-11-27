@@ -10,7 +10,7 @@ A plugin for  display different notice boxes with using shortcode
 
 
 <strong>How to use</strong><br/>
-To use each shortcude copy and paste youre desire shortcode in the content area of your post or page.
+To use each shortcode copy and paste youre desire shortcode in the content area of your post or page.
 
 
 <strong>Available shortcodes</strong><br/>
